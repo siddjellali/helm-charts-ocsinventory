@@ -18,6 +18,8 @@ fullnameOverride: ""
 podAnnotations: {}
 deploymentAnnotations: {}
 Labels: {}
+podSecurityContext: {}
+securityContext: {}
 
 ## PHP configuration
 ## https://www.php.net/manual/ini.core.php
